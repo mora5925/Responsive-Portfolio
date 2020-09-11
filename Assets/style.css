@@ -1,0 +1,32 @@
+
+ * {
+    padding: 10px;
+}
+
+
+
+.maincontainer {
+    padding: 20px;
+}
+
+h1 {
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+    color: lightblue;
+    text-align: left;
+  }
+  article, .background {
+    background-color: rgb(230, 215, 173);
+  }
+
+  footer {
+      background: darkslategrey;
+      text-align: center;
+      border-top: lightblue solid 5px;
+      color: white;
+      padding: 10px 0px;
+  }
